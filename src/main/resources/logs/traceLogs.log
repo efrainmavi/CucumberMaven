@@ -1,0 +1,28 @@
+19:28:11.952 INFO  AUTOMATION - Yo me ejecuto al inicio de todo
+19:28:11.977 INFO  AUTOMATION - Yo me ejecuto al inicio de cada scenario 
+19:28:11.986 INFO  AUTOMATION - Yo me ejecuto al final de cada sceneario PASSED 
+19:28:11.990 INFO  AUTOMATION - Yo me ejecuto al inicio de cada scenario 
+19:28:11.991 INFO  AUTOMATION - Yo me ejecuto al final de cada sceneario PASSED 
+19:28:11.994 INFO  AUTOMATION - Yo me ejecuto al inicio de cada scenario 
+19:28:11.995 INFO  AUTOMATION - Yo me ejecuto al final de cada sceneario PASSED 
+19:28:12.001 INFO  AUTOMATION - Yo me ejecuto al inicio de cada scenario 
+19:28:12.021 INFO  AUTOMATION - Yo me ejecuto al final de cada sceneario FAILED 
+19:28:12.025 INFO  AUTOMATION - Yo me ejecuto al inicio de cada scenario 
+19:28:12.026 INFO  AUTOMATION - Yo me ejecuto al final de cada sceneario FAILED 
+19:28:12.028 INFO  AUTOMATION - Yo me ejecuto al inicio de cada scenario 
+19:28:12.029 INFO  AUTOMATION - Yo me ejecuto al final de cada sceneario FAILED 
+19:28:12.032 INFO  AUTOMATION - Yo me ejecuto al inicio de cada scenario 
+19:28:12.032 INFO  AUTOMATION - Yo me ejecuto al final de cada sceneario FAILED 
+19:28:12.035 INFO  AUTOMATION - Yo me ejecuto al inicio de cada scenario 
+19:28:12.036 INFO  AUTOMATION - Yo me ejecuto al final de cada sceneario FAILED 
+19:28:12.038 INFO  AUTOMATION - Yo me ejecuto al inicio de cada scenario 
+19:28:12.040 INFO  AUTOMATION - Yo me ejecuto al final de cada sceneario FAILED 
+19:28:12.043 INFO  AUTOMATION - Yo me ejecuto al inicio de cada scenario 
+19:28:12.044 INFO  AUTOMATION - Yo me ejecuto al final de cada sceneario FAILED 
+19:28:12.046 INFO  AUTOMATION - Yo me ejecuto al inicio de cada scenario 
+19:28:12.131 INFO  AUTOMATION - Yo me ejecuto al final de cada sceneario PASSED 
+19:28:12.133 INFO  AUTOMATION - Yo me ejecuto al inicio de cada scenario 
+19:28:12.139 INFO  AUTOMATION - Yo me ejecuto al final de cada sceneario PASSED 
+19:28:12.140 INFO  AUTOMATION - Yo me ejecuto al inicio de cada scenario 
+19:28:12.143 INFO  AUTOMATION - Yo me ejecuto al final de cada sceneario PASSED 
+19:28:12.143 INFO  AUTOMATION - Yo me ejecuto al final de todo 
